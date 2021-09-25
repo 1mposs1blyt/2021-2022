@@ -1,0 +1,13 @@
+body {
+  margin: 0px auto;
+  width: 1200px;
+  background-color: #e42828;
+}
+.leftslider {
+  font-size: medium;
+  position: fixed;
+  left: 0;
+}
+ul {
+  list-style-type: none;
+}
